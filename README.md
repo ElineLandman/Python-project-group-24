@@ -16,8 +16,8 @@ This repository contains a reproducible exploratory analysis of Schiphol passeng
 Schiphol Group traffic statistics; Our World in Data COVID-19 case series.
 
 ## Authors and contributions
-Jouairia Azzouzi
-Juliette Folkers
-Eline Landman
-Noud Reijn
-Beria Karabocek
+Jouairia Azzouzi\n
+Juliette Folkers\n
+Eline Landman\n
+Noud Reijn\n
+Beria Karabocek\n
