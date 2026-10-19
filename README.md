@@ -5,7 +5,7 @@ This repository contains a reproducible exploratory analysis of Schiphol passeng
 1. Create a Python 3.12 environment.
 2. `pip install -r requirements.txt`
 3. Open `analysis_in_vscode.ipynb` in VS Code/Jupyter.
-4. Run all cells in order from the repository root. Figures are saved in `figures/`.
+4. Run all cells in order from the repository root. Figures are saved in `figure/`.
 
 ## Files
 - `data/`: original supplied Schiphol Excel and OWID CSV
