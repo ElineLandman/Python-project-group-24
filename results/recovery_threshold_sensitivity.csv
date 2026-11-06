@@ -1,0 +1,21 @@
+Passenger_group,Threshold_percent,Consecutive_months,First_period_start
+Total passengers,90,3,Jan 2024
+Total passengers,90,6,May 2024
+Total passengers,100,3,Not reached
+Total passengers,100,6,Not reached
+European,90,3,Jan 2024
+European,90,6,Jan 2024
+European,100,3,Not reached
+European,100,6,Not reached
+Intercontinental,90,3,Jan 2024
+Intercontinental,90,6,Sep 2024
+Intercontinental,100,3,Not reached
+Intercontinental,100,6,Not reached
+Origin and destination (O&D),90,3,Dec 2023
+Origin and destination (O&D),90,6,Apr 2024
+Origin and destination (O&D),100,3,Not reached
+Origin and destination (O&D),100,6,Not reached
+Transfer,90,3,Jul 2023
+Transfer,90,6,Jun 2024
+Transfer,100,3,Not reached
+Transfer,100,6,Not reached
